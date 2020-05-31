@@ -1,0 +1,28 @@
+
+#test{
+position: absolute;
+left: 470px;
+  /* border: 2px solid black; */
+  width: 500px;
+  height: 200px;
+  /* text-align: center; */
+  /* background: pink; */
+ }
+
+
+body{
+
+}
+#test_status{
+  display: flex;
+  justify-content: center;
+}
+button{
+  background: brown;
+width:150px;
+height: 50px;
+font-size: 15px;
+font-weight: bold;
+color: white;
+border: 1px solid black;
+}
